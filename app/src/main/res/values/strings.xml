@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">QuizAppUdemy</string>
+    <string name="correct_text">CorrectText</string>
+    <string name="incorrect_text">InCorrectText</string>
+    <string name="first_score_text">0/10</string>
+    <string name="correct_toast_message">Great</string>
+    <string name="incoreect_toast_message">NotGood!</string>
+    <string name="q1">1.In which decade was the American Institute of Electrical Engineers (AIEE) founded?</string>
+    <string name="q2">2.What is part of a database that holds only one type of information?</string>
+    <string name="q3">3.In which decade with the first transatlantic radio broadcast occur?</string>
+    <string name="q4">4.In which decade was the SPICE simulator introduced?</string>
+    <string name="q5">5.Most modern TVs draw power even if turned off. The circuit the power is used in does what function?</string>
+    <string name="q6">6.OS computer abbreviation usually means ?</string>
+    <string name="q7">7.Which is a type of Electrically-Erasable Programmable Read-Only Memory?</string>
+    <string name="q8">8.The purpose of choke in tube light is ?</string>
+    <string name="q9">9.MPG extension refers usually to what kind of file?</string>
+    <string name="q10">10.Most modern TVs draw power even if turned off. The circuit the power is used in does what function?</string>
+</resources>
